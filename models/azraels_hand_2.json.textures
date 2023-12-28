@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "handle_lowest",
+        "1": "handle_middle",
+        "2": "handle_highest",
+        "3": "gaurd",
+        "4": "blade_lowest",
+        "5": "blade_middle",
+        "6": "blade_high",
+        "7": "blade_highest"
+      },
+      "name": "default"
+    }
+  }
+}
